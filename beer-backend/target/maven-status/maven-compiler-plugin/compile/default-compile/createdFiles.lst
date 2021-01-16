@@ -1,0 +1,10 @@
+de\beer\controller\BeerController.class
+de\beer\mapper\BeerMapper.class
+de\beer\exception\BeerIsAlreadyDefinedException.class
+de\beer\service\BeerService.class
+de\beer\BeerApplication.class
+de\beer\jpa\repository\BeerRepository.class
+de\beer\mapper\BeerMapperImpl.class
+de\beer\jpa\entity\BeerEB.class
+de\beer\api\Beer.class
+de\beer\exception\BeerIsNotDefinedException.class
